@@ -1,0 +1,9 @@
+function fn() {
+  return {
+    nome: '#string',
+    email: '#string',
+    password: '#string',
+    administrador: '#regex (true|false)',
+    _id: '#string'
+  };
+}
